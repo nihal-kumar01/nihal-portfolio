@@ -200,9 +200,9 @@ export const contact = {
     "Open to internships, freelance projects, and full-time roles. If you have an interesting idea — let's talk.",
   email: 'nihalkumarofficial1@gmail.com',
   socials: [
-    { label: 'GitHub',   href: 'https://github.com/nihal-kumar01',   icon: 'github' },
-    { label: 'LinkedIn', href: 'https://linkedin.com/in/nihal-kumar01', icon: 'linkedin' },
-    { label: 'Twitter',  href: 'https://twitter.com/nihal-kumar01',   icon: 'twitter' },
-    { label: 'Instagram',href: 'https://instagram.com/nihal-kumar01', icon: 'instagram' },
+    { label: 'GitHub',   href: 'https://github.com/nihal-kumar01',          icon: 'github' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/nihal-krr/',   icon: 'linkedin' },
+    { label: 'Twitter',  href: 'https://x.com/nihal_twt',                  icon: 'twitter' },
+    { label: 'Instagram',href: 'https://www.instagram.com/nihalaryan__/',  icon: 'instagram' },
   ],
 };

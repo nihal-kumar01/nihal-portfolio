@@ -45,9 +45,9 @@ function Blob({ className, color }) {
 }
 
 const socials = [
-  { icon: SiGithub,   href: 'https://github.com/nihal-kumar01',       label: 'GitHub' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/nihal-kumar01',  label: 'LinkedIn' },
-  { icon: FaTwitter,  href: 'https://twitter.com/nihal-kumar01',       label: 'Twitter' },
+  { icon: SiGithub,   href: 'https://github.com/nihal-kumar01',              label: 'GitHub' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/nihal-krr/',        label: 'LinkedIn' },
+  { icon: FaTwitter,  href: 'https://x.com/nihal_twt',                       label: 'Twitter' },
 ];
 
 /* ── Stagger variants ──────────────────────────────────── */
