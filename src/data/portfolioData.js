@@ -198,7 +198,7 @@ export const contact = {
   headline: "Let's Build Something Great",
   subtext:
     "Open to internships, freelance projects, and full-time roles. If you have an interesting idea — let's talk.",
-  email: 'nihal.kumar@email.com',
+  email: 'nihalkumarofficial1@gmail.com',
   socials: [
     { label: 'GitHub',   href: 'https://github.com/nihal-kumar01',   icon: 'github' },
     { label: 'LinkedIn', href: 'https://linkedin.com/in/nihal-kumar01', icon: 'linkedin' },

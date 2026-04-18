@@ -58,10 +58,10 @@ export default function Footer() {
               Contact
             </p>
             <a
-              href="mailto:nihal.kumar@email.com"
+              href="mailto:nihalkumarofficial1@gmail.com"
               className="text-sm dark:text-white/50 text-gray-500 dark:hover:text-white hover:text-gray-900 transition-colors block mb-3"
             >
-              nihal.kumar@email.com
+              nihalkumarofficial1@gmail.com
             </a>
             <div className="flex items-center gap-3">
               {socials.map(({ icon: Icon, href, label }) => (
