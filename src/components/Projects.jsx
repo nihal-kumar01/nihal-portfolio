@@ -211,7 +211,7 @@ export default function Projects() {
           transition={{ delay: 0.5 }}
         >
           <a
-            href="https://github.com/nihalkumar"
+            href="https://github.com/nihal-kumar01"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-medium dark:text-white/50 text-gray-500 dark:hover:text-white hover:text-gray-900 dark:bg-white/5 bg-gray-100 dark:hover:bg-white/10 hover:bg-gray-200 transition-all duration-200 grad-border"
