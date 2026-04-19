@@ -155,8 +155,8 @@ export const timeline = [
   {
     type: 'education',
     title: 'B.Tech — Computer Science & Engineering',
-    org: 'Your University Name',
-    duration: '2022 – 2026',
+    org: 'Manav Rachna University',
+    duration: '2025 – 2029',
     description:
       'Pursuing core CS fundamentals: Data Structures, Algorithms, OS, DBMS, Networks alongside specialised electives in AI/ML and Web Technologies.',
     tags: ['CGPA: 8.x/10', "Dean's List", 'Hackathon Club'],
